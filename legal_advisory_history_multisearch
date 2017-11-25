@@ -4,7 +4,7 @@
 	</head>
 	<body style="background-color:grey">
 
-<p>What Portuguese word would you like to multisearch? Type below, then press enter please.</p>
+<p>Which emerging company's legal advisory history would you like to multisearch? Type below, then press enter.</p>
 <input type="text" id="boxu" autofocus>
 
 		<script>
@@ -16,7 +16,7 @@ function searchy(e)
   	 var q = document.getElementById("boxu").value;
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=wsgr.com");
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=cooley.com");
-	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=fenwick.com");
+	 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=fenwick.com");
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=gunder.com");
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=lw.com");
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=mofo.com");
@@ -42,6 +42,7 @@ function searchy(e)
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=pillsburylaw.com");
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=ropesgray.com");
 	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=siliconlegal.com");
+
 	 document.getElementById("boxu").value = "";		
 	}
 }
