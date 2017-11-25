@@ -2,9 +2,8 @@
 <html>
 	<head>
 	</head>
-	<body style="background-color:grey">
+	<body style="background-color:#eef8fa">
 
-<p>Which emerging company's legal advisory history would you like to multisearch? Type below, then press enter.</p>
 <input type="text" id="boxu" autofocus>
 
 		<script>
@@ -49,5 +48,3 @@ function searchy(e)
 		</script>
 	</body>
 </html>
-
-	
