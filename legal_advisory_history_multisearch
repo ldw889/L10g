@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	</head>
+	<body style="background-color:grey">
+
+<p>What Portuguese word would you like to multisearch? Type below, then press enter please.</p>
+<input type="text" id="boxu" autofocus>
+
+		<script>
+document.getElementById("boxu").onkeydown = function(e) {searchy(e)};
+function searchy(e) 
+{
+	if (e.which == 13)
+	{
+  	 var q = document.getElementById("boxu").value;
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=wsgr.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=cooley.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=fenwick.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=gunder.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=lw.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=mofo.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=kirkland.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=orrick.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=goodwinlaw.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=gibsondunn.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=perkinscoie.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=jonesday.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=dlapiper.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=omm.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=wilmerhale.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=bakermckenzie.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=cov.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=mayerbrown.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=morganlewis.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=hoganlovells.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=skadden.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=mto.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=weil.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=stblaw.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=davispolk.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=pillsburylaw.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=ropesgray.com");
+	 window.open("https://www.google.com/search?hl=en&as_q=&as_epq=" + q + "&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=siliconlegal.com");
+	 document.getElementById("boxu").value = "";		
+	}
+}
+		</script>
+	</body>
+</html>
+
+	
