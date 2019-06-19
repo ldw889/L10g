@@ -1,1 +1,1 @@
-# repository for work on the emerging company legal advisory tool
+# repository for work on the startup legal advisory tool
